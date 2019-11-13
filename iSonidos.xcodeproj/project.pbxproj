@@ -12,6 +12,60 @@
 		E37673E7237BEAFD00D22625 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E37673E5237BEAFD00D22625 /* Main.storyboard */; };
 		E37673E9237BEAFE00D22625 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E37673E8237BEAFE00D22625 /* Assets.xcassets */; };
 		E37673EC237BEAFE00D22625 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E37673EA237BEAFE00D22625 /* LaunchScreen.storyboard */; };
+		E37673F9237C28D200D22625 /* __a_tomar_pol_culo_todos.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E37673F8237C28D200D22625 /* __a_tomar_pol_culo_todos.mp3 */; };
+		E37673FE237C28E600D22625 /* __dakota.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E37673FA237C28E600D22625 /* __dakota.mp3 */; };
+		E37673FF237C28E600D22625 /* __bites_the_dust.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E37673FB237C28E600D22625 /* __bites_the_dust.mp3 */; };
+		E3767400237C28E600D22625 /* __callas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E37673FC237C28E600D22625 /* __callas.mp3 */; };
+		E3767401237C28E600D22625 /* __hello_darkness.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E37673FD237C28E600D22625 /* __hello_darkness.mp3 */; };
+		E3767407237C291600D22625 /* __parda.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767402237C291500D22625 /* __parda.mp3 */; };
+		E3767408237C291600D22625 /* __inflar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767403237C291500D22625 /* __inflar.mp3 */; };
+		E3767409237C291600D22625 /* __maricarmen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767404237C291500D22625 /* __maricarmen.mp3 */; };
+		E376740A237C291600D22625 /* __me_da_igual.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767405237C291600D22625 /* __me_da_igual.mp3 */; };
+		E376740B237C291600D22625 /* __oh_ma_gawd.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767406237C291600D22625 /* __oh_ma_gawd.mp3 */; };
+		E3767411237C294600D22625 /* __say_something.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376740C237C294600D22625 /* __say_something.mp3 */; };
+		E3767412237C294600D22625 /* __siuuu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376740D237C294600D22625 /* __siuuu.mp3 */; };
+		E3767413237C294600D22625 /* __porque.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376740E237C294600D22625 /* __porque.mp3 */; };
+		E3767414237C294600D22625 /* __que_me_quedo_sin_comer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376740F237C294600D22625 /* __que_me_quedo_sin_comer.mp3 */; };
+		E3767415237C294600D22625 /* __tengo_miedo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767410237C294600D22625 /* __tengo_miedo.mp3 */; };
+		E376741B237C295300D22625 /* __trata_de_arrancarlo1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767416237C295300D22625 /* __trata_de_arrancarlo1.mp3 */; };
+		E376741C237C295300D22625 /* __trata_de_arrancarlo2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767417237C295300D22625 /* __trata_de_arrancarlo2.mp3 */; };
+		E376741D237C295300D22625 /* __turn_down.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767418237C295300D22625 /* __turn_down.mp3 */; };
+		E376741E237C295300D22625 /* __thug_life.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767419237C295300D22625 /* __thug_life.mp3 */; };
+		E376741F237C295300D22625 /* __yvolo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376741A237C295300D22625 /* __yvolo.mp3 */; };
+		E3767425237C296200D22625 /* _chiquito_ahora.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767420237C296100D22625 /* _chiquito_ahora.mp3 */; };
+		E3767426237C296200D22625 /* __yvolo2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767421237C296100D22625 /* __yvolo2.mp3 */; };
+		E3767427237C296200D22625 /* _chiquito_gloria.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767422237C296100D22625 /* _chiquito_gloria.mp3 */; };
+		E3767428237C296200D22625 /* __yvolo3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767423237C296100D22625 /* __yvolo3.mp3 */; };
+		E3767429237C296200D22625 /* _chiquito_cobarde.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767424237C296200D22625 /* _chiquito_cobarde.mp3 */; };
+		E376742F237C297600D22625 /* _chiquito_lucas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376742A237C297500D22625 /* _chiquito_lucas.mp3 */; };
+		E3767430237C297600D22625 /* _chiquito_muymal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376742B237C297600D22625 /* _chiquito_muymal.mp3 */; };
+		E3767431237C297600D22625 /* _chiquito_noorl.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376742C237C297600D22625 /* _chiquito_noorl.mp3 */; };
+		E3767432237C297600D22625 /* _chiquito_nopuedo02.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376742D237C297600D22625 /* _chiquito_nopuedo02.mp3 */; };
+		E3767433237C297600D22625 /* _chiquito_nopuedo01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376742E237C297600D22625 /* _chiquito_nopuedo01.mp3 */; };
+		E3767439237C298600D22625 /* _pedrerol_becarios1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767434237C298500D22625 /* _pedrerol_becarios1.mp3 */; };
+		E376743A237C298600D22625 /* _pedrerol_becarios2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767435237C298500D22625 /* _pedrerol_becarios2.mp3 */; };
+		E376743B237C298600D22625 /* _pedrerol_ya_esta_bien.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767436237C298500D22625 /* _pedrerol_ya_esta_bien.mp3 */; };
+		E376743C237C298600D22625 /* _chiquito_quietorl.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767437237C298500D22625 /* _chiquito_quietorl.mp3 */; };
+		E376743D237C298600D22625 /* _chiquito_por_favorl.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767438237C298600D22625 /* _chiquito_por_favorl.mp3 */; };
+		E3767443237C299000D22625 /* _rajoy_tila.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376743E237C298F00D22625 /* _rajoy_tila.mp3 */; };
+		E3767444237C299000D22625 /* _rajpy_yo_te_quiero_alfonso.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376743F237C298F00D22625 /* _rajpy_yo_te_quiero_alfonso.mp3 */; };
+		E3767445237C299000D22625 /* _rajoy_los_chuches_iva.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767440237C298F00D22625 /* _rajoy_los_chuches_iva.mp3 */; };
+		E3767446237C299000D22625 /* _rajoy_por_favor_callense.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767441237C298F00D22625 /* _rajoy_por_favor_callense.mp3 */; };
+		E3767447237C299000D22625 /* _rajoy_pollo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767442237C299000D22625 /* _rajoy_pollo.mp3 */; };
+		E376744D237C29A100D22625 /* _ramonpitis_5_cosas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767448237C29A000D22625 /* _ramonpitis_5_cosas.mp3 */; };
+		E376744E237C29A100D22625 /* _ramonpitis_inestable.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767449237C29A100D22625 /* _ramonpitis_inestable.mp3 */; };
+		E376744F237C29A100D22625 /* _ramonpitis_pin_pam_pin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376744A237C29A100D22625 /* _ramonpitis_pin_pam_pin.mp3 */; };
+		E3767450237C29A100D22625 /* _ramonpitis_emidiotuchi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376744B237C29A100D22625 /* _ramonpitis_emidiotuchi.mp3 */; };
+		E3767451237C29A100D22625 /* _ramonpitis_orejudo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376744C237C29A100D22625 /* _ramonpitis_orejudo.mp3 */; };
+		E3767457237C29AF00D22625 /* _simpsons_incognito.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767452237C29AE00D22625 /* _simpsons_incognito.mp3 */; };
+		E3767458237C29AF00D22625 /* _ramonpitis_vanidoso.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767453237C29AE00D22625 /* _ramonpitis_vanidoso.mp3 */; };
+		E3767459237C29AF00D22625 /* _ramonpitis_punetazos.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767454237C29AE00D22625 /* _ramonpitis_punetazos.mp3 */; };
+		E376745A237C29AF00D22625 /* _simpsons_klab01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767455237C29AF00D22625 /* _simpsons_klab01.mp3 */; };
+		E376745B237C29AF00D22625 /* _simpsons_corre_platano.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E3767456237C29AF00D22625 /* _simpsons_corre_platano.mp3 */; };
+		E376745F237C29BA00D22625 /* s_no_willyrex.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376745C237C29BA00D22625 /* s_no_willyrex.mp3 */; };
+		E3767460237C29BA00D22625 /* _simpsons_klab02.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376745D237C29BA00D22625 /* _simpsons_klab02.mp3 */; };
+		E3767461237C29BA00D22625 /* _torrente_plan_perfecto.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E376745E237C29BA00D22625 /* _torrente_plan_perfecto.mp3 */; };
+		E3767464237C2A0700D22625 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E3767463237C2A0700D22625 /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +76,60 @@
 		E37673E8237BEAFE00D22625 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E37673EB237BEAFE00D22625 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E37673ED237BEAFE00D22625 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E37673F8237C28D200D22625 /* __a_tomar_pol_culo_todos.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __a_tomar_pol_culo_todos.mp3; sourceTree = "<group>"; };
+		E37673FA237C28E600D22625 /* __dakota.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __dakota.mp3; sourceTree = "<group>"; };
+		E37673FB237C28E600D22625 /* __bites_the_dust.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __bites_the_dust.mp3; sourceTree = "<group>"; };
+		E37673FC237C28E600D22625 /* __callas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __callas.mp3; sourceTree = "<group>"; };
+		E37673FD237C28E600D22625 /* __hello_darkness.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __hello_darkness.mp3; sourceTree = "<group>"; };
+		E3767402237C291500D22625 /* __parda.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __parda.mp3; sourceTree = "<group>"; };
+		E3767403237C291500D22625 /* __inflar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __inflar.mp3; sourceTree = "<group>"; };
+		E3767404237C291500D22625 /* __maricarmen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __maricarmen.mp3; sourceTree = "<group>"; };
+		E3767405237C291600D22625 /* __me_da_igual.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __me_da_igual.mp3; sourceTree = "<group>"; };
+		E3767406237C291600D22625 /* __oh_ma_gawd.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __oh_ma_gawd.mp3; sourceTree = "<group>"; };
+		E376740C237C294600D22625 /* __say_something.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __say_something.mp3; sourceTree = "<group>"; };
+		E376740D237C294600D22625 /* __siuuu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __siuuu.mp3; sourceTree = "<group>"; };
+		E376740E237C294600D22625 /* __porque.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __porque.mp3; sourceTree = "<group>"; };
+		E376740F237C294600D22625 /* __que_me_quedo_sin_comer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __que_me_quedo_sin_comer.mp3; sourceTree = "<group>"; };
+		E3767410237C294600D22625 /* __tengo_miedo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __tengo_miedo.mp3; sourceTree = "<group>"; };
+		E3767416237C295300D22625 /* __trata_de_arrancarlo1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __trata_de_arrancarlo1.mp3; sourceTree = "<group>"; };
+		E3767417237C295300D22625 /* __trata_de_arrancarlo2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __trata_de_arrancarlo2.mp3; sourceTree = "<group>"; };
+		E3767418237C295300D22625 /* __turn_down.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __turn_down.mp3; sourceTree = "<group>"; };
+		E3767419237C295300D22625 /* __thug_life.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __thug_life.mp3; sourceTree = "<group>"; };
+		E376741A237C295300D22625 /* __yvolo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __yvolo.mp3; sourceTree = "<group>"; };
+		E3767420237C296100D22625 /* _chiquito_ahora.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _chiquito_ahora.mp3; sourceTree = "<group>"; };
+		E3767421237C296100D22625 /* __yvolo2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __yvolo2.mp3; sourceTree = "<group>"; };
+		E3767422237C296100D22625 /* _chiquito_gloria.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _chiquito_gloria.mp3; sourceTree = "<group>"; };
+		E3767423237C296100D22625 /* __yvolo3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = __yvolo3.mp3; sourceTree = "<group>"; };
+		E3767424237C296200D22625 /* _chiquito_cobarde.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _chiquito_cobarde.mp3; sourceTree = "<group>"; };
+		E376742A237C297500D22625 /* _chiquito_lucas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _chiquito_lucas.mp3; sourceTree = "<group>"; };
+		E376742B237C297600D22625 /* _chiquito_muymal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _chiquito_muymal.mp3; sourceTree = "<group>"; };
+		E376742C237C297600D22625 /* _chiquito_noorl.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _chiquito_noorl.mp3; sourceTree = "<group>"; };
+		E376742D237C297600D22625 /* _chiquito_nopuedo02.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _chiquito_nopuedo02.mp3; sourceTree = "<group>"; };
+		E376742E237C297600D22625 /* _chiquito_nopuedo01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _chiquito_nopuedo01.mp3; sourceTree = "<group>"; };
+		E3767434237C298500D22625 /* _pedrerol_becarios1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _pedrerol_becarios1.mp3; sourceTree = "<group>"; };
+		E3767435237C298500D22625 /* _pedrerol_becarios2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _pedrerol_becarios2.mp3; sourceTree = "<group>"; };
+		E3767436237C298500D22625 /* _pedrerol_ya_esta_bien.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _pedrerol_ya_esta_bien.mp3; sourceTree = "<group>"; };
+		E3767437237C298500D22625 /* _chiquito_quietorl.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _chiquito_quietorl.mp3; sourceTree = "<group>"; };
+		E3767438237C298600D22625 /* _chiquito_por_favorl.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _chiquito_por_favorl.mp3; sourceTree = "<group>"; };
+		E376743E237C298F00D22625 /* _rajoy_tila.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _rajoy_tila.mp3; sourceTree = "<group>"; };
+		E376743F237C298F00D22625 /* _rajpy_yo_te_quiero_alfonso.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _rajpy_yo_te_quiero_alfonso.mp3; sourceTree = "<group>"; };
+		E3767440237C298F00D22625 /* _rajoy_los_chuches_iva.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _rajoy_los_chuches_iva.mp3; sourceTree = "<group>"; };
+		E3767441237C298F00D22625 /* _rajoy_por_favor_callense.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _rajoy_por_favor_callense.mp3; sourceTree = "<group>"; };
+		E3767442237C299000D22625 /* _rajoy_pollo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _rajoy_pollo.mp3; sourceTree = "<group>"; };
+		E3767448237C29A000D22625 /* _ramonpitis_5_cosas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _ramonpitis_5_cosas.mp3; sourceTree = "<group>"; };
+		E3767449237C29A100D22625 /* _ramonpitis_inestable.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _ramonpitis_inestable.mp3; sourceTree = "<group>"; };
+		E376744A237C29A100D22625 /* _ramonpitis_pin_pam_pin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _ramonpitis_pin_pam_pin.mp3; sourceTree = "<group>"; };
+		E376744B237C29A100D22625 /* _ramonpitis_emidiotuchi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _ramonpitis_emidiotuchi.mp3; sourceTree = "<group>"; };
+		E376744C237C29A100D22625 /* _ramonpitis_orejudo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _ramonpitis_orejudo.mp3; sourceTree = "<group>"; };
+		E3767452237C29AE00D22625 /* _simpsons_incognito.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _simpsons_incognito.mp3; sourceTree = "<group>"; };
+		E3767453237C29AE00D22625 /* _ramonpitis_vanidoso.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _ramonpitis_vanidoso.mp3; sourceTree = "<group>"; };
+		E3767454237C29AE00D22625 /* _ramonpitis_punetazos.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _ramonpitis_punetazos.mp3; sourceTree = "<group>"; };
+		E3767455237C29AF00D22625 /* _simpsons_klab01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _simpsons_klab01.mp3; sourceTree = "<group>"; };
+		E3767456237C29AF00D22625 /* _simpsons_corre_platano.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _simpsons_corre_platano.mp3; sourceTree = "<group>"; };
+		E376745C237C29BA00D22625 /* s_no_willyrex.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = s_no_willyrex.mp3; sourceTree = "<group>"; };
+		E376745D237C29BA00D22625 /* _simpsons_klab02.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _simpsons_klab02.mp3; sourceTree = "<group>"; };
+		E376745E237C29BA00D22625 /* _torrente_plan_perfecto.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = _torrente_plan_perfecto.mp3; sourceTree = "<group>"; };
+		E3767463237C2A0700D22625 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +137,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3767464237C2A0700D22625 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +149,7 @@
 			children = (
 				E37673E0237BEAFD00D22625 /* iSonidos */,
 				E37673DF237BEAFD00D22625 /* Products */,
+				E3767462237C2A0700D22625 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,6 +164,7 @@
 		E37673E0237BEAFD00D22625 /* iSonidos */ = {
 			isa = PBXGroup;
 			children = (
+				E37673F7237C287700D22625 /* New Group */,
 				E37673E1237BEAFD00D22625 /* AppDelegate.swift */,
 				E37673E3237BEAFD00D22625 /* ViewController.swift */,
 				E37673E5237BEAFD00D22625 /* Main.storyboard */,
@@ -62,6 +173,74 @@
 				E37673ED237BEAFE00D22625 /* Info.plist */,
 			);
 			path = iSonidos;
+			sourceTree = "<group>";
+		};
+		E37673F7237C287700D22625 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				E37673F8237C28D200D22625 /* __a_tomar_pol_culo_todos.mp3 */,
+				E37673FB237C28E600D22625 /* __bites_the_dust.mp3 */,
+				E37673FC237C28E600D22625 /* __callas.mp3 */,
+				E37673FA237C28E600D22625 /* __dakota.mp3 */,
+				E37673FD237C28E600D22625 /* __hello_darkness.mp3 */,
+				E3767403237C291500D22625 /* __inflar.mp3 */,
+				E3767404237C291500D22625 /* __maricarmen.mp3 */,
+				E3767405237C291600D22625 /* __me_da_igual.mp3 */,
+				E3767406237C291600D22625 /* __oh_ma_gawd.mp3 */,
+				E3767402237C291500D22625 /* __parda.mp3 */,
+				E376740E237C294600D22625 /* __porque.mp3 */,
+				E376740F237C294600D22625 /* __que_me_quedo_sin_comer.mp3 */,
+				E376740C237C294600D22625 /* __say_something.mp3 */,
+				E376740D237C294600D22625 /* __siuuu.mp3 */,
+				E3767410237C294600D22625 /* __tengo_miedo.mp3 */,
+				E3767419237C295300D22625 /* __thug_life.mp3 */,
+				E3767416237C295300D22625 /* __trata_de_arrancarlo1.mp3 */,
+				E3767417237C295300D22625 /* __trata_de_arrancarlo2.mp3 */,
+				E3767418237C295300D22625 /* __turn_down.mp3 */,
+				E376741A237C295300D22625 /* __yvolo.mp3 */,
+				E3767421237C296100D22625 /* __yvolo2.mp3 */,
+				E3767423237C296100D22625 /* __yvolo3.mp3 */,
+				E3767420237C296100D22625 /* _chiquito_ahora.mp3 */,
+				E3767424237C296200D22625 /* _chiquito_cobarde.mp3 */,
+				E3767422237C296100D22625 /* _chiquito_gloria.mp3 */,
+				E376742A237C297500D22625 /* _chiquito_lucas.mp3 */,
+				E376742B237C297600D22625 /* _chiquito_muymal.mp3 */,
+				E376742C237C297600D22625 /* _chiquito_noorl.mp3 */,
+				E376742E237C297600D22625 /* _chiquito_nopuedo01.mp3 */,
+				E376742D237C297600D22625 /* _chiquito_nopuedo02.mp3 */,
+				E3767438237C298600D22625 /* _chiquito_por_favorl.mp3 */,
+				E3767437237C298500D22625 /* _chiquito_quietorl.mp3 */,
+				E3767434237C298500D22625 /* _pedrerol_becarios1.mp3 */,
+				E3767435237C298500D22625 /* _pedrerol_becarios2.mp3 */,
+				E3767436237C298500D22625 /* _pedrerol_ya_esta_bien.mp3 */,
+				E3767440237C298F00D22625 /* _rajoy_los_chuches_iva.mp3 */,
+				E3767442237C299000D22625 /* _rajoy_pollo.mp3 */,
+				E3767441237C298F00D22625 /* _rajoy_por_favor_callense.mp3 */,
+				E376743E237C298F00D22625 /* _rajoy_tila.mp3 */,
+				E376743F237C298F00D22625 /* _rajpy_yo_te_quiero_alfonso.mp3 */,
+				E3767448237C29A000D22625 /* _ramonpitis_5_cosas.mp3 */,
+				E376744B237C29A100D22625 /* _ramonpitis_emidiotuchi.mp3 */,
+				E3767449237C29A100D22625 /* _ramonpitis_inestable.mp3 */,
+				E376744C237C29A100D22625 /* _ramonpitis_orejudo.mp3 */,
+				E376744A237C29A100D22625 /* _ramonpitis_pin_pam_pin.mp3 */,
+				E3767454237C29AE00D22625 /* _ramonpitis_punetazos.mp3 */,
+				E3767453237C29AE00D22625 /* _ramonpitis_vanidoso.mp3 */,
+				E3767456237C29AF00D22625 /* _simpsons_corre_platano.mp3 */,
+				E3767452237C29AE00D22625 /* _simpsons_incognito.mp3 */,
+				E3767455237C29AF00D22625 /* _simpsons_klab01.mp3 */,
+				E376745D237C29BA00D22625 /* _simpsons_klab02.mp3 */,
+				E376745E237C29BA00D22625 /* _torrente_plan_perfecto.mp3 */,
+				E376745C237C29BA00D22625 /* s_no_willyrex.mp3 */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		E3767462237C2A0700D22625 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E3767463237C2A0700D22625 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +302,61 @@
 			buildActionMask = 2147483647;
 			files = (
 				E37673EC237BEAFE00D22625 /* LaunchScreen.storyboard in Resources */,
+				E3767451237C29A100D22625 /* _ramonpitis_orejudo.mp3 in Resources */,
+				E37673FE237C28E600D22625 /* __dakota.mp3 in Resources */,
+				E376743D237C298600D22625 /* _chiquito_por_favorl.mp3 in Resources */,
+				E3767461237C29BA00D22625 /* _torrente_plan_perfecto.mp3 in Resources */,
+				E3767460237C29BA00D22625 /* _simpsons_klab02.mp3 in Resources */,
+				E3767447237C299000D22625 /* _rajoy_pollo.mp3 in Resources */,
 				E37673E9237BEAFE00D22625 /* Assets.xcassets in Resources */,
+				E3767415237C294600D22625 /* __tengo_miedo.mp3 in Resources */,
+				E376744D237C29A100D22625 /* _ramonpitis_5_cosas.mp3 in Resources */,
+				E3767409237C291600D22625 /* __maricarmen.mp3 in Resources */,
+				E3767444237C299000D22625 /* _rajpy_yo_te_quiero_alfonso.mp3 in Resources */,
+				E376741B237C295300D22625 /* __trata_de_arrancarlo1.mp3 in Resources */,
+				E376745B237C29AF00D22625 /* _simpsons_corre_platano.mp3 in Resources */,
+				E3767426237C296200D22625 /* __yvolo2.mp3 in Resources */,
+				E3767413237C294600D22625 /* __porque.mp3 in Resources */,
+				E3767450237C29A100D22625 /* _ramonpitis_emidiotuchi.mp3 in Resources */,
+				E376740A237C291600D22625 /* __me_da_igual.mp3 in Resources */,
+				E376741C237C295300D22625 /* __trata_de_arrancarlo2.mp3 in Resources */,
+				E3767412237C294600D22625 /* __siuuu.mp3 in Resources */,
+				E3767459237C29AF00D22625 /* _ramonpitis_punetazos.mp3 in Resources */,
+				E3767458237C29AF00D22625 /* _ramonpitis_vanidoso.mp3 in Resources */,
 				E37673E7237BEAFD00D22625 /* Main.storyboard in Resources */,
+				E376744E237C29A100D22625 /* _ramonpitis_inestable.mp3 in Resources */,
+				E37673FF237C28E600D22625 /* __bites_the_dust.mp3 in Resources */,
+				E3767400237C28E600D22625 /* __callas.mp3 in Resources */,
+				E3767401237C28E600D22625 /* __hello_darkness.mp3 in Resources */,
+				E376741D237C295300D22625 /* __turn_down.mp3 in Resources */,
+				E3767443237C299000D22625 /* _rajoy_tila.mp3 in Resources */,
+				E3767414237C294600D22625 /* __que_me_quedo_sin_comer.mp3 in Resources */,
+				E376743A237C298600D22625 /* _pedrerol_becarios2.mp3 in Resources */,
+				E3767445237C299000D22625 /* _rajoy_los_chuches_iva.mp3 in Resources */,
+				E376742F237C297600D22625 /* _chiquito_lucas.mp3 in Resources */,
+				E3767428237C296200D22625 /* __yvolo3.mp3 in Resources */,
+				E3767446237C299000D22625 /* _rajoy_por_favor_callense.mp3 in Resources */,
+				E3767425237C296200D22625 /* _chiquito_ahora.mp3 in Resources */,
+				E3767429237C296200D22625 /* _chiquito_cobarde.mp3 in Resources */,
+				E3767432237C297600D22625 /* _chiquito_nopuedo02.mp3 in Resources */,
+				E376743C237C298600D22625 /* _chiquito_quietorl.mp3 in Resources */,
+				E3767427237C296200D22625 /* _chiquito_gloria.mp3 in Resources */,
+				E376741E237C295300D22625 /* __thug_life.mp3 in Resources */,
+				E376741F237C295300D22625 /* __yvolo.mp3 in Resources */,
+				E3767439237C298600D22625 /* _pedrerol_becarios1.mp3 in Resources */,
+				E3767431237C297600D22625 /* _chiquito_noorl.mp3 in Resources */,
+				E376740B237C291600D22625 /* __oh_ma_gawd.mp3 in Resources */,
+				E37673F9237C28D200D22625 /* __a_tomar_pol_culo_todos.mp3 in Resources */,
+				E376745A237C29AF00D22625 /* _simpsons_klab01.mp3 in Resources */,
+				E376743B237C298600D22625 /* _pedrerol_ya_esta_bien.mp3 in Resources */,
+				E3767408237C291600D22625 /* __inflar.mp3 in Resources */,
+				E376745F237C29BA00D22625 /* s_no_willyrex.mp3 in Resources */,
+				E376744F237C29A100D22625 /* _ramonpitis_pin_pam_pin.mp3 in Resources */,
+				E3767407237C291600D22625 /* __parda.mp3 in Resources */,
+				E3767433237C297600D22625 /* _chiquito_nopuedo01.mp3 in Resources */,
+				E3767411237C294600D22625 /* __say_something.mp3 in Resources */,
+				E3767430237C297600D22625 /* _chiquito_muymal.mp3 in Resources */,
+				E3767457237C29AF00D22625 /* _simpsons_incognito.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
